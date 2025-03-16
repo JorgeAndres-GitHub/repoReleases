@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: repoReleases
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/JorgeAndres-GitHub/repoReleases
+Author: Jorge Andres
+Author-email: jorge@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
